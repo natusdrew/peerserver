@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/natusdrew/peerserver/issues"
   },
-  "homepage": "https://github.com/natusdrew/peerserver#readme"
+  "homepage": "https://github.com/natusdrew/peerserver#readme",
+  "dependencies": {
+    "peer": "^0.5.3"
+  }
 }
