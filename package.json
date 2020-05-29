@@ -4,7 +4,8 @@
   "description": "A signaling server for Peer.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "peerjs --port 9000 --key peerjs --path /myapp"
   },
   "repository": {
     "type": "git",
